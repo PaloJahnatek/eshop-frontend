@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "http://localhost:3001/headphones.jpg",
+      "name": "Headphones",
+      "price": 99
+    },
+    {
+      "id": "2",
+      "image": "http://localhost:3001/keyboard.jpg",
+      "name": "Keyboard",
+      "price": 29
+    },
+    {
+      "id": "3",
+      "image": "http://localhost:3001/mouse.jpg",
+      "name": "Mouse",
+      "price": 31
+    },
+    {
+      "id": "4",
+      "image": "http://localhost:3001/notebook.jpg",
+      "name": "Notebook",
+      "price": 789
+    },
+    {
+      "id": "5",
+      "image": "http://localhost:3001/tablet.jpg",
+      "name": "Tablet",
+      "price": 189
+    }
+  ]
+}
